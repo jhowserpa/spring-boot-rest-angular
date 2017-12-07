@@ -1,4 +1,4 @@
-package com.algaworks.patrimonio;
+package com.angular.patrimonio;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
